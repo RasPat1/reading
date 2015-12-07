@@ -7,6 +7,7 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
     - [CSS](#css)
     - [iOS](#ios)
     - [JavaScript](#javascript)
+    - [Grails](#grails)
     - [Misc](#misc)
   - [Miscellaneous](#miscellaneous)
 
@@ -26,6 +27,9 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 
 ##### JavaScript
 - [Original jQuery source code, annotated](http://genius.com/5088475/ejohn.org/files/jquery-original.html) by John Resig
+
+##### Grails
+- [Spring Framework Intro](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7) by Java Brains
 
 ##### Misc.
 - [The Beauty of Code](http://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/) by Vikram Chandra
